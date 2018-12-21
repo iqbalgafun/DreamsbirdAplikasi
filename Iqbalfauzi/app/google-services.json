@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464475255863",
+    "firebase_url": "https://iqbalfauzi-de9b9.firebaseio.com",
+    "project_id": "iqbalfauzi-de9b9",
+    "storage_bucket": "iqbalfauzi-de9b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464475255863:android:84daa96f381e0961",
+        "android_client_info": {
+          "package_name": "com.example.iqbalpriansyah.iqbalfauzi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464475255863-j0i5nfqlg86fnlk2ghlfde8obb5dmt7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzXokl7NDbWPTG0t-iX19wVDB960jDt7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
